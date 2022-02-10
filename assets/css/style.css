@@ -1,0 +1,33 @@
+.bg-nav1 {
+    background-color: #E83E8C;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.bg-footer1 {
+    background-color: #E83E8C;
+}
+.sec-icon {
+    background-color: #17A2B8;
+    color: #ffffff;
+    font-size: 'Open Sans', sans-serif;
+}
+.ahora-ac {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-style: bold;
+}
+.nuestros-p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-style: ;
+}
+.prod-card {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: normal;
+    color: #373A3C;
+}
+h5 {
+    color: #212529;
+    font-weight: 700;
+}
